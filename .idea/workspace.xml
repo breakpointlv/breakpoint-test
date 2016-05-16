@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30c34c35-7cf5-4aaf-9a8b-383bef4d15c0" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.ja.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.uk.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/cache/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/blog.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/data/blog_test.sqlite" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/logs/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/apple-touch-icon.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/lato/Lato-Bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/lato/Lato-BoldItalic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/lato/Lato-Italic.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/lato/Lato-Regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppCache.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/AppKernel.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/TwigBundle/views/Exception/error.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/TwigBundle/views/Exception/error403.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/TwigBundle/views/Exception/error404.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/TwigBundle/views/Exception/error500.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/css/bootstrap-datetimepicker.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/css/font-lato.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/css/highlight-solarized-light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/bootstrap-3.3.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/bootstrap-3.3.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/bootstrap-datetimepicker.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/highlight.pack.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/jquery-2.1.4.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/jquery-2.1.4.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/js/moment.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap-flatly.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_badges.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_breadcrumbs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_button-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_carousel.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_close.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_code.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_component-animations.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_dropdowns.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_glyphicons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_input-groups.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_jumbotron.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_media.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_modals.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_navbar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_navs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_normalize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_pager.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_popovers.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_print.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_progress-bars.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_responsive-embed.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_responsive-utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_scaffolding.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_tables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_theme.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_thumbnails.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_tooltip.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_type.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_utilities.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/_wells.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_alerts.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_background-variant.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_center-block.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_clearfix.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_gradients.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_grid-framework.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_grid.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_hide-text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_image.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_list-group.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_nav-divider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_opacity.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_pagination.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_panels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_progress-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_reset-filter.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_resize.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_size.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_tab-focus.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_table-row.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_text-overflow.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootswatch-flatly/_bootswatch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/bootswatch-flatly/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/font-awesome/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/assets/scss/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.ca.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.cs.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.de.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.en.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.es.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.fr.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.id.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.it.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.nl.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.pl.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.pt_BR.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.ro.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/messages.ru.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.ca.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.cs.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.de.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.en.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.es.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.fr.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.id.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.it.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.ja.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.nl.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.pl.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.pt_BR.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.ro.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.ru.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/translations/validators.uk.xliff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/blog/_form.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/blog/edit.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/blog/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/blog/new.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/blog/show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/admin/layout.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/_comment_form.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/_delete_post_confirmation.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/about.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/comment_form_error.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/index.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/blog/post_show.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/_flash_messages.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/default/homepage.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/form/fields.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/Resources/views/security/login.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/SymfonyRequirements.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/autoload.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/check.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_prod.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/config_test.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/parameters.yml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/routing_dev.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/security.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/console" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/phpunit.xml.dist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/appveyor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/composer.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/AppBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Command/AddUserCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Command/DeleteUserCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Command/ListUsersCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/Admin/BlogController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/BlogController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Controller/SecurityController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/DataFixtures/ORM/LoadFixtures.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Comment.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/Post.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Entity/User.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/EventListener/RedirectToPreferredLocaleListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Form/CommentType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Form/PostType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Form/Type/DateTimePickerType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/PostRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Repository/UserRepository.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Tests/Controller/Admin/BlogControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Tests/Controller/BlogControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Tests/Controller/DefaultControllerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Tests/Utils/SluggerTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Twig/AppExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Utils/Markdown.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Utils/MomentFormatConverter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/AppBundle/Utils/Slugger.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/CodeExplorerBundle.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/DependencyInjection/CodeExplorerExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/EventListener/ControllerListener.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/Resources/config/services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/Resources/views/source_code.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/CodeExplorerBundle/Twig/SourceCodeExtension.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/.htaccess" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/app_dev.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/config.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/css/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/fonts/font-awesome/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/js/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/web/robots.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
+    <ignored path="breakpoint-test.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="breakpoint-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="about.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/blog/about.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.026995305">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/blog/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/Resources/views/blog/about.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1922" />
+    <option name="height" value="1045" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="blog" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="breakpoint-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30c34c35-7cf5-4aaf-9a8b-383bef4d15c0" name="Default" comment="" />
+      <created>1463390696696</created>
+      <option name="number" value="Default" />
+      <updated>1463390696696</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1045" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25320512" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/blog/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/blog/about.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.026995305">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
